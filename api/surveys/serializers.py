@@ -27,6 +27,18 @@ class ResponseSerializer(serializers.ModelSerializer):
 
 
 class QuestionSerializer(serializers.ModelSerializer):
+    num_responses = serializers.SerializerMethodField()
+
     class Meta:
         model = Question
-        fields = ["id", "text", "created_at", "yes_percentage", "no_percentage"]
+        fields = [
+            "id",
+            "text",
+            "created_at",
+            "yes_percentage",
+            "no_percentage",
+            "num_responses",
+        ]
+
+    def get_num_responses(self, obj):
+        return obj.response_set.count()

@@ -18,13 +18,14 @@ const QuestionsList = ({ questions }) => {
 
   return (
     <div className="questions-list">
-      <table className="table">
+      <table className="table table-hover">
         <thead>
           <tr>
             <th>Question</th>
             <th>Created Date</th>
             <th>Yes Percentage</th>
             <th>No Percentage</th>
+            <th>Responses</th>
           </tr>
         </thead>
         <tbody>
@@ -34,6 +35,7 @@ const QuestionsList = ({ questions }) => {
               <td>{new Date(question.created_at).toLocaleDateString()}</td>
               <td>{question.yes_percentage.toFixed(2)}%</td>
               <td>{question.no_percentage.toFixed(2)}%</td>
+              <td>{question.num_responses}</td>
             </tr>
           ))}
         </tbody>

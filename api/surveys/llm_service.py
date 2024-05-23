@@ -76,6 +76,8 @@ def run_survey(question):
                     with transaction.atomic():
                         Response.objects.bulk_create(responses)
                     responses = []
+                    update_question_percentages(question)
+                    time.sleep(50)
 
         if responses:
             with transaction.atomic():

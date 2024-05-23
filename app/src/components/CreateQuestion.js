@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { createQuestion, fetchQuestions } from "../services/questionService";
-import "./CreateQuestion.css";
 import { useNavigate } from "react-router-dom";
 
 const CreateQuestion = ({ onQuestionCreated }) => {
