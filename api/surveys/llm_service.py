@@ -55,6 +55,18 @@ def update_question_percentages(question):
     question.save()
 
 
+def sanitise_response(response):
+    response_lower = response.lower()
+    if "don't know" in response_lower or "dont know" in response_lower:
+        return "don't know"
+    elif "yes" in response_lower:
+        return "yes"
+    elif "no" in response_lower:
+        return "no"
+    else:
+        return response
+
+
 def run_survey(question):
     try:
         service = LLMService(question)
@@ -68,6 +80,7 @@ def run_survey(question):
             responses = []
             for participant in chunk:
                 response = service.call_llm(participant)
+                response = sanitise_response(response)
                 response = Response(
                     question=question, participant=participant, answer=response
                 )

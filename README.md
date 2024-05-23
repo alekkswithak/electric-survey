@@ -1,24 +1,43 @@
-Row number 434 doesn't have an age! I've made him 68 because hes retired. Or, how would you like me to deal with blank fields, there are others
+# Electric Survey
 
-```
-python manage.py populate_participants data.csv
-```
+Electric Survey is a Django + React application that allows you to ask questions to a synthetic population and view their responses using filters and graphs.
 
-I tried, gpt4free: ip blocked. Local installs of facebook-opt, llama and microsoft-phi either gave useless answers or gave my computer a panic attack, or both
+## Getting Started
 
-Here's some response from llama for example:
+To get the app running on your local machine, you'll need to have [Docker Compose](https://docs.docker.com/compose/) installed.
 
-```
-"\nNo, I do not agree with abortion.\nYes, I do agree with abortion.\nAbortion is a difficult topic. The majority of people are against it. But I think that we should consider the reasons for the abortion, the mother’s situation and the development of the fetus. In my opinion, abortion is not always bad.\nThe majority of people are against abortion. I do not agree with this point of view.\nIn my opinion, abortion is not always bad.\nI do not agree with this point of view.\nThe majority of people are against abortion",
+1. Add your Grok API key to `/api/.env` by setting the variable `LLM_API_KEY`.
 
-"\nAs an average UK citizen, do you agree with abortion? Answer: yes or no only.\nAs an average UK citizen, do you agree with abortion?\nAnswer: yes or no only.\nAs an average UK citizen, do you agree with abortion? Answer: yes or no only.\nIf you say yes, you are a sick person.\nAs an average UK citizen, do you agree with abortion? Answer: yes or no only.\nIf you say no, you are a sick person.\nI agree with abortion in the following cases:\n1) R",
-```
+2. From the project root directory, run:
 
-```
-"If you pretend to be the following person {Select your gender (e.g., Male, Female, Other): Female, Enter your age in years: 33, Enter the region where you reside: West Midlands, What is the highest level of education you have completed?: Vocational/Technical college, What is your current relationship status?: Living with partner, What's your main occupation?: Junior managerial / Professional / Administrative, What is your current household income?: £70,000 - £99,999, In which social class would you consider yourself?: Working class, How often do you smoke cigarettes?: Less than once a month, Do you pay back the entirety of your credit card debt every month?: No}, choose one of the options Yes, No, Don't Know to the following question: Do you agree with universal basic income."
+   ```sh
+   docker compose up --build
+   ```
 
-```
+3. Open your web browser and navigate to [http://localhost:3000/](http://localhost:3000/).
 
-PREP: CV, Technical experience,
+## Using the App
 
-Route opimiser, jumbled bus routes, sort into routes.
+### Creating Questions
+
+1. Initially, there will be no questions. To create a question, type your question text in the `Question text` field and press `Enter` or click the `Create` button.
+
+2. You will be automatically redirected to the question detail page. Initially, there will be no responses. Because we are using Grok's free tier API, we are rate limited to 30 requests per minute. It may take up to a minute for the first 30 responses to appear. Responses will then continue to increase at a rate of 30 per minute until the synthetic population of 500 participants has been fully surveyed. This process takes approximately 17 minutes. You can continue to use the app while responses are being collected in the background.
+
+### Filtering Responses
+
+1. To filter responses, type the value you want to filter by in the relevant field under `Filter Responses`. Filters perform text matching from the start of the value, and multiple filters can be applied simultaneously.
+
+2. The `Age` filter can be specified as a range, for example, `18-36` to return results for participants aged 18 to 36 inclusive.
+
+3. For `Household Income`, you do not need to include the `£` symbol.
+
+### Viewing Charts
+
+1. Click on `Show Charts` at the top right of the results table to toggle between the results table and two charts: a pie chart and a bar chart. These charts will update live as you apply filters.
+
+### Managing Multiple Questions
+
+1. If you ask more questions while the initial question is still being surveyed, the app will make parallel calls to Grok's API. However, the rate limit applies to the entire app, so adding more questions will slow down the survey filling rate proportionately.
+
+2. To stop the question asking process, use `docker compose down`, then `docker compose up` to restart the app. The surveying process will not restart, but existing responses will be preserved.

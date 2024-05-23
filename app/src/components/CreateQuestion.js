@@ -21,7 +21,7 @@ const CreateQuestion = ({ onQuestionCreated }) => {
         } catch (err) {
           setError(err.message);
         }
-      }, 2000);
+      }, 3000);
 
       return () => clearTimeout(timer);
     }

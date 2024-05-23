@@ -56,7 +56,7 @@ const QuestionDetail = () => {
       } catch (error) {
         console.error("Error fetching responses:", error);
       }
-    }, 60000);
+    }, 30000);
 
     return () => clearInterval(interval);
   }, [id]);
@@ -146,45 +146,53 @@ const QuestionDetail = () => {
           Responses ({filteredResponses.length} out of {responses.length})
         </h2>
         <button className="btn btn-secondary mb-3" onClick={toggleViewMode}>
-          {viewMode === "table" ? "Show Chart" : "Show Table"}
+          {viewMode === "table" ? "Show Charts" : "Show Table"}
         </button>
       </div>
 
       {viewMode === "table" ? (
-        <table className="table mt-3">
-          <thead>
-            <tr>
-              <th>Answer</th>
-              <th>Gender</th>
-              <th>Age</th>
-              <th>Region</th>
-              <th>Education</th>
-              <th>Relationship Status</th>
-              <th>Occupation</th>
-              <th>Household Income</th>
-              <th>Social Class</th>
-              <th>Smoking Frequency</th>
-              <th>Credit Card Debt</th>
-            </tr>
-          </thead>
-          <tbody>
-            {filteredResponses.map((response) => (
-              <tr key={response.id}>
-                <td>{response.answer}</td>
-                <td>{response.gender}</td>
-                <td>{response.age}</td>
-                <td>{response.region}</td>
-                <td>{response.education}</td>
-                <td>{response.relationship_status}</td>
-                <td>{response.occupation}</td>
-                <td>{response.household_income}</td>
-                <td>{response.social_class}</td>
-                <td>{response.smoking_frequency}</td>
-                <td>{response.credit_card_debt}</td>
+        responses.length === 0 ? (
+          <div className="d-flex justify-content-center my-5">
+            <div className="spinner-border" role="status">
+              <span className="visually-hidden">Loading...</span>
+            </div>
+          </div>
+        ) : (
+          <table className="table mt-3">
+            <thead>
+              <tr>
+                <th>Answer</th>
+                <th>Gender</th>
+                <th>Age</th>
+                <th>Region</th>
+                <th>Education</th>
+                <th>Relationship Status</th>
+                <th>Occupation</th>
+                <th>Household Income</th>
+                <th>Social Class</th>
+                <th>Smoking Frequency</th>
+                <th>Credit Card Debt</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {filteredResponses.map((response) => (
+                <tr key={response.id}>
+                  <td>{response.answer}</td>
+                  <td>{response.gender}</td>
+                  <td>{response.age}</td>
+                  <td>{response.region}</td>
+                  <td>{response.education}</td>
+                  <td>{response.relationship_status}</td>
+                  <td>{response.occupation}</td>
+                  <td>{response.household_income}</td>
+                  <td>{response.social_class}</td>
+                  <td>{response.smoking_frequency}</td>
+                  <td>{response.credit_card_debt}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        )
       ) : (
         <div className="d-flex justify-content-around">
           <div className="centered-chart">
