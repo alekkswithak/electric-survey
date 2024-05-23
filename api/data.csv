@@ -1,0 +1,501 @@
+Gender,Age,Region,What is the highest level of education you have completed?,What is your current relationship status?,What's your main occupation?,What is your current household income?,In which social class would you consider yourself? ,How often do you smoke cigarettes?,Do you pay back the entirety of your credit card debt every month?
+Female,33,West Midlands,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Less than once a month,No
+Female,37,East of England,University,Married,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,No
+Female,45,West Midlands,Vocational/Technical college,Married,Skilled manual worker,"£70,000 - £99,999",Middle class,Never,No
+Female,35,North West,Post-graduate,Single,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,No
+Female,52,South East,University,Married,Homemaker,"£10,000 - £16,999",Underclass,Never,No
+Female,54,West Midlands,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,33,West Midlands,Post-graduate,Living with partner,Skilled manual worker,"£55,000 - £69,999",Working class,Never,I don't have a credit card
+Female,51,Wales,Upper Secondary School,Married,Semi-skilled manual worker,Prefer not to say,Middle class,Never,No
+Female,50,South West,Upper Secondary School,Married,Skilled manual worker,"£17,000 - £34,999",Lower middle class,Never,No
+Female,45,East Midlands,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,No
+Male,45,Yorkshire and The Humber,Lower Secondary School,Single,Unemployed,"£0 - £9,999",Underclass,4+ times a day,I don't have a credit card
+Female,53,Yorkshire and The Humber,University,Married,Homemaker,"£10,000 - £16,999",Working class,Never,No
+Female,44,West Midlands,Lower Secondary School,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Male,52,South East,University,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,Yes
+Male,28,Yorkshire and The Humber,Lower Secondary School,Married,Skilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,No
+Male,48,Scotland,Lower Secondary School,In a relationship,Unemployed,"£0 - £9,999",Lower middle class,Never,Yes
+Female,54,South West,University,Separated,Unemployed,"£0 - £9,999",Working class,4+ times a day,No
+Male,54,North West,Upper Secondary School,Divorced,Unemployed,"£10,000 - £16,999",Underclass,4+ times a day,I don't have a credit card
+Female,54,North West,Upper Secondary School,Married,Unskilled manual worker,"£55,000 - £69,999",Working class,Never,I don't have a credit card
+Neither,40,North West,Post-graduate,Married,Senior managerial / Professional / Administrative,"More than £150,000",Working class,Never,Yes
+Male,48,East of England,Upper Secondary School,Widowed,Junior managerial / Professional / Administrative,"£0 - £9,999",Working class,Never,I don't have a credit card
+Male,50,East Midlands,University,Married,Homemaker,"£0 - £9,999",Lower middle class,Never,Yes
+Female,53,West Midlands,Vocational/Technical college,Married,Skilled manual worker,"£10,000 - £16,999",Working class,Never,No
+Female,42,South East,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Female,42,North East,Upper Secondary School,Living with partner,Homemaker,"£10,000 - £16,999",Lower middle class,Never,No
+Male,51,East Midlands,Lower Secondary School,Living with partner,Homemaker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,40,Scotland,Lower Secondary School,Living with partner,Skilled manual worker,"£0 - £9,999",Middle class,4+ times a day,I don't have a credit card
+Female,39,East Midlands,Vocational/Technical college,Single,Senior managerial / Professional / Administrative,"£10,000 - £16,999",Working class,Never,Yes
+Female,53,South West,Vocational/Technical college,Single,Skilled manual worker,"£17,000 - £34,999",Working class,4+ times a day,I don't have a credit card
+Female,46,Scotland,Vocational/Technical college,Living with partner,Full-time carer,"£10,000 - £16,999",Working class,4+ times a day,I don't have a credit card
+Male,49,East Midlands,Upper Secondary School,Single,Semi-skilled manual worker,"£10,000 - £16,999",Working class,Never,I don't have a credit card
+Female,41,East Midlands,Post-graduate,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,No
+Female,31,South East,University,Single,Senior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,No
+Male,54,South East,Vocational/Technical college,Divorced,Intermediate managerial / Professional / Administrative,"£10,000 - £16,999",Lower middle class,Never,Yes
+Male,48,North West,Upper Secondary School,Married,Semi-skilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,I don't have a credit card
+Male,51,British Islands,Post-graduate,Married,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Weekly,No
+Female,44,Yorkshire and The Humber,Upper Secondary School,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Male,38,South East,Lower Secondary School,Married,Semi-skilled manual worker,"£17,000 - £34,999",Working class,2-3 times a day,I don't have a credit card
+Male,53,North West,Vocational/Technical college,Married,Skilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Female,34,South West,University,Living with partner,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Male,54,South West,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Male,40,North West,Post-graduate,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,54,Yorkshire and The Humber,Vocational/Technical college,Married,Full-time carer,"£17,000 - £34,999",Working class,Less than once a month,No
+Female,54,South West,University,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,Yes
+Female,52,Scotland,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,Yes
+Male,54,South East,Vocational/Technical college,Single,Semi-skilled manual worker,"£17,000 - £34,999",Working class,Never,No
+Male,48,South West,University,Single,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,54,Scotland,University,Married,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,I don't have a credit card
+Male,44,Yorkshire and The Humber,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,48,Yorkshire and The Humber,Vocational/Technical college,Single,Senior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,4+ times a day,Yes
+Female,49,South West,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Never,No
+Female,49,East Midlands,Vocational/Technical college,Married,Retired,"£17,000 - £34,999",Working class,4+ times a day,No
+Female,38,Wales,Upper Secondary School,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Female,43,Scotland,Post-graduate,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Male,37,Yorkshire and The Humber,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Female,46,North West,Post-graduate,Single,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,2-3 times a day,Yes
+Female,42,Yorkshire and The Humber,Upper Secondary School,Married,Student,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,43,South West,Post-graduate,Single,Homemaker,"£0 - £9,999",Working class,Never,No
+Female,48,South East,Upper Secondary School,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,4+ times a day,I don't have a credit card
+Male,52,South East,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,No
+Female,51,East of England,Upper Secondary School,Married,Homemaker,"£55,000 - £69,999",Lower middle class,Never,Yes
+Female,47,East Midlands,University,Married,Homemaker,"£55,000 - £69,999",Middle class,Never,No
+Male,35,West Midlands,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,40,North West,Vocational/Technical college,Married,Homemaker,"£10,000 - £16,999",Underclass,Never,I don't have a credit card
+Male,48,Yorkshire and The Humber,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,No
+Female,37,South West,Vocational/Technical college,In a relationship,Semi-skilled manual worker,"£10,000 - £16,999",Working class,4+ times a day,I don't have a credit card
+Male,49,Scotland,Upper Secondary School,Living with partner,Skilled manual worker,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Female,44,North West,University,Single,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Male,33,North West,University,In a relationship,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Male,47,South West,University,Single,Retired,"£0 - £9,999",Middle class,Never,Yes
+Female,54,East of England,Upper Secondary School,Separated,Retired,"£0 - £9,999",Working class,4+ times a day,Yes
+Female,52,South East,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,41,South West,Vocational/Technical college,Separated,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,I don't have a credit card
+Male,41,West Midlands,University,Single,Unemployed,"£0 - £9,999",Working class,Never,No
+Female,53,Scotland,Upper Secondary School,Single,Junior managerial / Professional / Administrative,"£0 - £9,999",Lower middle class,Never,I don't have a credit card
+Female,36,Yorkshire and The Humber,Upper Secondary School,In a relationship,Unskilled manual worker,"£17,000 - £34,999",Middle class,Never,No
+Male,50,East of England,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,No
+Male,54,South West,Vocational/Technical college,Single,Skilled manual worker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,38,East of England,Vocational/Technical college,Single,Unskilled manual worker,"£10,000 - £16,999",Working class,Never,No
+Male,31,South East,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,No
+Female,46,Scotland,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,No
+Female,42,East of England,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£0 - £9,999",Working class,2-3 times a day,I don't have a credit card
+Male,52,Wales,Upper Secondary School,Divorced,Unskilled manual worker,"£0 - £9,999",Working class,Never,I don't have a credit card
+Male,48,Wales,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,54,East Midlands,Upper Secondary School,Married,Unskilled manual worker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Male,44,North West,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,No
+Female,46,Scotland,Vocational/Technical college,Married,Skilled manual worker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,47,West Midlands,Post-graduate,Separated,Retired,"£10,000 - £16,999",Working class,4+ times a day,No
+Female,51,North West,Upper Secondary School,Single,Unemployed,"£10,000 - £16,999",Middle class,Weekly,I don't have a credit card
+Female,53,Yorkshire and The Humber,Lower Secondary School,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,Yes
+Female,47,North West,Post-graduate,Single,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,No
+Male,47,Northern Ireland,Upper Secondary School,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,No
+Male,37,Yorkshire and The Humber,University,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,Yes
+Male,54,North West,University,Single,Unemployed,"£0 - £9,999",Working class,Never,No
+Male,39,East Midlands,University,Single,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Upper middle class,Never,Yes
+Male,51,South West,University,I'd rather not say,Unskilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Male,51,Yorkshire and The Humber,Vocational/Technical college,Married,Senior managerial / Professional / Administrative,"£0 - £9,999",Working class,Never,Yes
+Female,34,South East,University,Separated,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,38,South East,Vocational/Technical college,Married,Semi-skilled manual worker,"£17,000 - £34,999",Lower middle class,4+ times a day,No
+Female,53,East Midlands,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Never,Yes
+Female,47,South West,Vocational/Technical college,Married,Semi-skilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Female,47,South East,Upper Secondary School,Living with partner,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,I don't have a credit card
+Female,39,Wales,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,4+ times a day,No
+Female,48,Scotland,Upper Secondary School,In a relationship,Junior managerial / Professional / Administrative,"£10,000 - £16,999",Underclass,Never,No
+Female,41,South West,University,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Upper middle class,Never,Yes
+Female,51,West Midlands,Post-graduate,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Neither,37,North West,Vocational/Technical college,Married,Skilled manual worker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Male,45,Yorkshire and The Humber,University,Married,Semi-skilled manual worker,"£17,000 - £34,999",Lower middle class,Never,I don't have a credit card
+Male,52,Wales,Lower Secondary School,Married,Skilled manual worker,"£35,000 - £54,999",Lower middle class,Never,No
+Female,46,Wales,University,Married,Homemaker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Male,42,Yorkshire and The Humber,Lower Secondary School,Living with partner,Semi-skilled manual worker,"£35,000 - £54,999",Working class,Never,Yes
+Male,50,North West,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,52,London,Upper Secondary School,Single,Semi-skilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Female,44,South East,University,Married,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,Yes
+Female,41,Wales,Upper Secondary School,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Less than once a month,No
+Female,47,South West,University,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Never,No
+Female,53,Wales,Post-graduate,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,No
+Male,52,Yorkshire and The Humber,Vocational/Technical college,Married,Homemaker,"£17,000 - £34,999",Working class,4+ times a day,No
+Neither,47,South West,Vocational/Technical college,Married,Skilled manual worker,"£70,000 - £99,999",Working class,Never,No
+Female,54,South East,Vocational/Technical college,Married,Skilled manual worker,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Female,46,Scotland,Vocational/Technical college,Single,Homemaker,"£17,000 - £34,999",Underclass,Never,I don't have a credit card
+Male,42,North West,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,No
+Female,49,North West,Vocational/Technical college,Single,Unskilled manual worker,"£0 - £9,999",Underclass,Never,No
+Male,47,North West,University,Living with partner,Unskilled manual worker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,50,Yorkshire and The Humber,University,I'd rather not say,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Female,46,South East,Vocational/Technical college,Married,Homemaker,"£10,000 - £16,999",Working class,4+ times a day,I don't have a credit card
+Neither,50,North West,Upper Secondary School,Married,Skilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Female,52,North West,University,Married,Full-time carer,"£0 - £9,999",Underclass,2-3 times a day,No
+Male,49,East of England,Vocational/Technical college,Living with partner,Skilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,No
+Female,52,East of England,Upper Secondary School,Married,Skilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Male,52,South East,Vocational/Technical college,Single,Skilled manual worker,"£17,000 - £34,999",Working class,4+ times a day,I don't have a credit card
+Female,45,North West,Post-graduate,Separated,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Male,39,East of England,Upper Secondary School,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Male,50,East Midlands,University,Single,Skilled manual worker,"£0 - £9,999",Working class,Never,Yes
+Female,45,South West,Vocational/Technical college,Married,Skilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Female,49,South East,Upper Secondary School,Single,Skilled manual worker,"£17,000 - £34,999",Working class,4+ times a day,Yes
+Male,47,Northern Ireland,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,No
+Female,49,West Midlands,Post-graduate,Living with partner,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Female,50,North West,University,Divorced,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,No
+Female,50,Yorkshire and The Humber,Lower Secondary School,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Male,53,London,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"More than £150,000",Middle class,Never,Yes
+Female,51,North West,University,Single,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,No
+Female,52,Yorkshire and The Humber,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£10,000 - £16,999",Working class,Never,No
+Male,52,London,Post-graduate,Single,Unemployed,"£17,000 - £34,999",Working class,Never,No
+Male,51,West Midlands,Post-graduate,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,48,Northern Ireland,Lower Secondary School,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,Yes
+Female,39,South East,Upper Secondary School,Married,Homemaker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,52,North West,Post-graduate,Divorced,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,30,North East,Post-graduate,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,53,North West,University,Divorced,Retired,"£10,000 - £16,999",Working class,Never,No
+Male,30,South West,University,Married,Skilled manual worker,"£55,000 - £69,999",Lower middle class,Never,I don't have a credit card
+Female,37,South East,Post-graduate,Married,Semi-skilled manual worker,"£17,000 - £34,999",Working class,Weekly,No
+Male,47,East of England,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Female,44,North West,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,No
+Female,37,South West,University,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,No
+Female,43,North West,University,Divorced,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,48,East of England,Post-graduate,Married,Senior managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Male,41,London,University,Living with partner,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Working class,4+ times a day,Yes
+Female,49,South West,Vocational/Technical college,In a relationship,Semi-skilled manual worker,"£10,000 - £16,999",Working class,Never,I don't have a credit card
+Male,54,Yorkshire and The Humber,Vocational/Technical college,Married,Retired,"£17,000 - £34,999",Middle class,Never,Yes
+Male,44,South West,Vocational/Technical college,Married,Skilled manual worker,"£55,000 - £69,999",Working class,Never,I don't have a credit card
+Female,40,East of England,University,Single,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,46,Yorkshire and The Humber,University,Divorced,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Less than once a month,No
+Male,41,North West,Vocational/Technical college,Married,Skilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,No
+Male,50,East Midlands,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Female,45,West Midlands,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Male,53,London,Lower Secondary School,Married,Full-time carer,"£55,000 - £69,999",Working class,4+ times a day,I don't have a credit card
+Female,51,Yorkshire and The Humber,Upper Secondary School,Separated,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,Yes
+Female,37,West Midlands,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Female,41,North West,Post-graduate,Single,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,No
+Female,50,South East,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,
+Male,39,East Midlands,Upper Secondary School,Living with partner,Full-time carer,"£10,000 - £16,999",Underclass,4+ times a day,No
+Female,39,East of England,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,No
+Female,47,London,University,Single,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Once/twice a month,Yes
+Female,34,Scotland,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Male,47,East Midlands,University,Married,Intermediate managerial / Professional / Administrative,"£100,000 - £149,999",Lower middle class,Never,Yes
+Female,40,Scotland,Upper Secondary School,Single,Skilled manual worker,"£0 - £9,999",Underclass,Never,I don't have a credit card
+Neither,40,West Midlands,Upper Secondary School,Civil Partnership,Student,"£35,000 - £54,999",Lower middle class,Never,No
+Female,54,East Midlands,Post-graduate,Single,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Working class,4+ times a day,No
+Male,52,South East,University,Single,Unemployed,"£17,000 - £34,999",Lower middle class,Never,I don't have a credit card
+Male,51,Yorkshire and The Humber,University,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,Yes
+Male,43,North West,Post-graduate,In a relationship,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,Yes
+Female,47,North West,Upper Secondary School,Married,Homemaker,"£17,000 - £34,999",Underclass,Never,No
+Female,48,East of England,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Female,53,West Midlands,Lower Secondary School,Single,Unskilled manual worker,"£10,000 - £16,999",Lower middle class,Never,I don't have a credit card
+Female,47,North West,Upper Secondary School,Married,Full-time carer,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Male,47,East of England,Upper Secondary School,Living with partner,Senior managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,I don't have a credit card
+Female,52,Yorkshire and The Humber,Upper Secondary School,Living with partner,Unskilled manual worker,"£35,000 - £54,999",Working class,Never,Yes
+Neither,23,South West,University,Civil Partnership,Student,"£0 - £9,999",Middle class,4+ times a day,I don't have a credit card
+Female,52,West Midlands,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,43,Yorkshire and The Humber,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Once a day,No
+Male,53,Wales,University,Married,Skilled manual worker,"£17,000 - £34,999",Working class,Never,
+Female,38,South East,University,Married,Full-time carer,"£17,000 - £34,999",Middle class,Never,Yes
+Female,34,North East,University,Living with partner,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Female,51,Northern Ireland,Vocational/Technical college,Married,Semi-skilled manual worker,"£35,000 - £54,999",Middle class,Never,I don't have a credit card
+Female,47,South West,Vocational/Technical college,Married,Unskilled manual worker,"£55,000 - £69,999",Working class,Never,Yes
+Female,51,West Midlands,Vocational/Technical college,Married,Homemaker,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Male,47,Wales,University,Separated,Skilled manual worker,"£55,000 - £69,999",Lower middle class,Never,Yes
+Female,38,Yorkshire and The Humber,University,Divorced,Skilled manual worker,"£17,000 - £34,999",Working class,Never,No
+Female,38,Scotland,University,Single,Semi-skilled manual worker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,49,South West,Vocational/Technical college,Married,Senior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,50,North West,Vocational/Technical college,Married,Skilled manual worker,"£17,000 - £34,999",Underclass,4+ times a day,I don't have a credit card
+Female,53,East Midlands,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,No
+Male,53,British Islands,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,4+ times a day,I don't have a credit card
+Female,48,Wales,University,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,No
+Male,53,East of England,Vocational/Technical college,Living with partner,Skilled manual worker,"£35,000 - £54,999",Working class,Never,No
+Female,48,South East,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,No
+Male,52,Yorkshire and The Humber,Upper Secondary School,Divorced,Semi-skilled manual worker,"£17,000 - £34,999",Working class,Never,No
+Male,28,South East,Post-graduate,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,Yes
+Male,48,Scotland,Upper Secondary School,Single,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,4+ times a day,Yes
+Male,54,North West,University,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,Yes
+Female,45,South East,Vocational/Technical college,I'd rather not say,Unemployed,"£10,000 - £16,999",Working class,4+ times a day,No
+Female,51,Scotland,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Male,45,East Midlands,Upper Secondary School,Divorced,Semi-skilled manual worker,"£0 - £9,999",Working class,Less than once a month,No
+Female,41,North West,Post-graduate,Divorced,Casual worker - not permanent,"£55,000 - £69,999",Middle class,Never,I don't have a credit card
+Female,37,East Midlands,Upper Secondary School,Living with partner,Homemaker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,43,East Midlands,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£100,000 - £149,999",Lower middle class,Never,Yes
+Male,38,South West,University,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Female,35,Yorkshire and The Humber,University,Single,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,I don't have a credit card
+Female,37,Scotland,Post-graduate,Married,Senior managerial / Professional / Administrative,"£100,000 - £149,999",Middle class,Once/twice a month,I don't have a credit card
+Male,43,East Midlands,Upper Secondary School,Single,Unemployed,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Male,30,East Midlands,University,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Female,50,East Midlands,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Female,37,South West,Upper Secondary School,Living with partner,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Once/twice a month,I don't have a credit card
+Female,40,North West,University,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Male,50,North West,Vocational/Technical college,Single,Skilled manual worker,"£35,000 - £54,999",Middle class,Never,No
+Female,52,Yorkshire and The Humber,Lower Secondary School,Married,Homemaker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,51,North West,Vocational/Technical college,Married,Unemployed,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Male,54,Yorkshire and The Humber,Upper Secondary School,Divorced,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,No
+Female,53,Wales,Post-graduate,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,43,North West,Post-graduate,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,I don't have a credit card
+Female,40,North West,Vocational/Technical college,Living with partner,Senior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Female,38,Scotland,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,No
+Male,39,South West,Upper Secondary School,Married,Skilled manual worker,"£35,000 - £54,999",Working class,Less than once a month,No
+Female,48,East Midlands,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Female,51,East of England,Upper Secondary School,I'd rather not say,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Never,Yes
+Female,44,Yorkshire and The Humber,Upper Secondary School,Living with partner,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Less than once a month,No
+Female,42,North East,Upper Secondary School,Single,Unskilled manual worker,"£10,000 - £16,999",Working class,Never,I don't have a credit card
+Female,46,Scotland,Upper Secondary School,Married,Unskilled manual worker,"£17,000 - £34,999",Working class,Never,No
+Female,37,South West,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,I don't have a credit card
+Male,43,West Midlands,University,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Male,51,West Midlands,Vocational/Technical college,Separated,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Female,52,London,Vocational/Technical college,Living with partner,Senior managerial / Professional / Administrative,"£10,000 - £16,999",Working class,Never,I don't have a credit card
+Female,50,North East,Upper Secondary School,Single,Full-time carer,"£0 - £9,999",Working class,Never,I don't have a credit card
+Male,47,East of England,Vocational/Technical college,Single,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Working class,2-3 times a day,Yes
+Female,47,South East,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£10,000 - £16,999",Lower middle class,Never,I don't have a credit card
+Female,38,West Midlands,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,27,South East,University,In a relationship,Unemployed,"£17,000 - £34,999",Middle class,Never,I don't have a credit card
+Male,54,Yorkshire and The Humber,Upper Secondary School,Married,Skilled manual worker,"£35,000 - £54,999",Lower middle class,4+ times a day,Yes
+Female,40,South West,University,Single,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Never,I don't have a credit card
+Female,42,South East,Vocational/Technical college,Living with partner,Unskilled manual worker,"£35,000 - £54,999",Working class,Never,No
+Female,45,Yorkshire and The Humber,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,Yes
+Male,42,East of England,Upper Secondary School,Married,Semi-skilled manual worker,"£55,000 - £69,999",Working class,Never,Yes
+Male,47,East of England,Upper Secondary School,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,No
+Male,45,East of England,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,No
+Female,37,South East,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,Yes
+Female,34,East of England,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Male,41,Scotland,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,No
+Male,45,Wales,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Less than once a month,No
+Male,50,Wales,Post-graduate,Single,Full-time carer,"£100,000 - £149,999",Working class,Never,
+Female,53,West Midlands,University,Married,Homemaker,"£70,000 - £99,999",Lower middle class,Never,Yes
+Female,51,Scotland,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,46,East of England,Vocational/Technical college,In a relationship,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Less than once a month,Yes
+Female,38,South West,University,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,No
+Female,44,Northern Ireland,University,Living with partner,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Working class,4+ times a day,No
+Neither,52,South East,Vocational/Technical college,Married,Student,"£17,000 - £34,999",Underclass,Never,Yes
+Female,33,North West,University,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,I don't have a credit card
+Female,37,Wales,Vocational/Technical college,Single,Prefer not to say,"£17,000 - £34,999",Working class,Less than once a month,I don't have a credit card
+Female,49,South West,Post-graduate,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Female,49,North West,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,Yes
+Male,53,East Midlands,University,In a relationship,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,4+ times a day,Yes
+Female,36,Wales,Upper Secondary School,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,
+Female,53,West Midlands,Lower Secondary School,In a relationship,Homemaker,"£10,000 - £16,999",Working class,Never,No
+Female,36,South East,Upper Secondary School,Married,Semi-skilled manual worker,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Female,37,Yorkshire and The Humber,University,Married,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,Yes
+Female,33,North West,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,No
+Female,45,South East,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Weekly,I don't have a credit card
+Female,52,Wales,University,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,34,South East,Vocational/Technical college,In a relationship,Semi-skilled manual worker,"£70,000 - £99,999",Working class,Never,Yes
+Female,36,South East,University,Married,Intermediate managerial / Professional / Administrative,"£100,000 - £149,999",Middle class,Never,Yes
+Female,54,South West,Upper Secondary School,Married,Unskilled manual worker,"£35,000 - £54,999",Middle class,4+ times a day,
+Female,49,South East,Upper Secondary School,Married,Semi-skilled manual worker,"£35,000 - £54,999",Lower middle class,Never,I don't have a credit card
+Male,40,South East,Vocational/Technical college,Single,Unemployed,"£10,000 - £16,999",Working class,4+ times a day,I don't have a credit card
+Male,32,London,University,Married,Intermediate managerial / Professional / Administrative,"More than £150,000",Prefer not to say,Never,Yes
+Male,51,North West,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,I don't have a credit card
+Female,39,South West,University,Married,Semi-skilled manual worker,"£17,000 - £34,999",Underclass,Never,No
+Female,53,Yorkshire and The Humber,Vocational/Technical college,Married,Senior managerial / Professional / Administrative,"£100,000 - £149,999",Middle class,Never,No
+Male,44,South East,Lower Secondary School,Married,Full-time carer,"£10,000 - £16,999",Lower middle class,Less than once a month,I don't have a credit card
+Male,46,Wales,Vocational/Technical college,Living with partner,Skilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,I don't have a credit card
+Female,54,East of England,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,4+ times a day,No
+Male,42,Scotland,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Weekly,No
+Male,38,Yorkshire and The Humber,Post-graduate,Married,Skilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Male,31,East Midlands,University,Living with partner,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,I don't have a credit card
+Female,53,South West,Vocational/Technical college,Single,Semi-skilled manual worker,"£10,000 - £16,999",Middle class,Never,Yes
+Female,33,South East,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,No
+Male,43,South East,University,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Female,48,East Midlands,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,35,North West,Upper Secondary School,Living with partner,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Working class,4+ times a day,I don't have a credit card
+Male,39,Yorkshire and The Humber,Vocational/Technical college,Single,Skilled manual worker,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Male,49,South West,University,In a relationship,Intermediate managerial / Professional / Administrative,"£10,000 - £16,999",Working class,Never,I don't have a credit card
+Female,45,South East,Vocational/Technical college,Living with partner,Unskilled manual worker,"£35,000 - £54,999",Working class,Never,No
+Male,49,East of England,University,Married,Senior managerial / Professional / Administrative,"£100,000 - £149,999",Middle class,Never,No
+Male,52,Yorkshire and The Humber,Upper Secondary School,Single,Skilled manual worker,"£35,000 - £54,999",Middle class,Never,Yes
+Female,51,North East,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,No
+Female,53,South West,Upper Secondary School,Married,Retired,"£35,000 - £54,999",Underclass,4+ times a day,I don't have a credit card
+Female,54,South West,Upper Secondary School,Separated,Unemployed,"£0 - £9,999",Working class,Never,I don't have a credit card
+Male,48,South West,Upper Secondary School,Single,Unemployed,"£10,000 - £16,999",Working class,4+ times a day,Yes
+Female,35,South West,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,I don't have a credit card
+Female,54,Northern Ireland,Vocational/Technical college,Separated,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,I don't have a credit card
+Male,39,East Midlands,Post-graduate,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Male,37,Wales,University,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,No
+Female,45,North West,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,No
+Male,50,North West,University,Married,Junior managerial / Professional / Administrative,"£100,000 - £149,999",Working class,Never,Yes
+Female,47,North East,Post-graduate,Living with partner,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,Yes
+Female,48,North West,Post-graduate,Single,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,Yes
+Male,48,West Midlands,Upper Secondary School,In a relationship,Unemployed,"£0 - £9,999",Working class,Never,I don't have a credit card
+Male,36,East Midlands,University,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Female,48,South West,University,Married,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,No
+Female,54,East Midlands,Vocational/Technical college,Living with partner,Homemaker,"£35,000 - £54,999",Lower middle class,Never,
+Male,48,Scotland,University,Single,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Female,52,North West,University,In a relationship,Senior managerial / Professional / Administrative,"£100,000 - £149,999",Lower middle class,Never,No
+Female,39,North West,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,I don't have a credit card
+Female,49,London,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Male,34,Yorkshire and The Humber,University,Living with partner,Senior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,No
+Male,41,East of England,Vocational/Technical college,Married,Semi-skilled manual worker,"£35,000 - £54,999",Lower middle class,4+ times a day,Yes
+Male,53,Wales,Vocational/Technical college,Married,Retired,Prefer not to say,Working class,Never,No
+Female,40,West Midlands,University,Married,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Upper middle class,Once a day,Yes
+Female,32,Yorkshire and The Humber,University,Civil Partnership,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,No
+Female,53,West Midlands,Vocational/Technical college,Living with partner,Semi-skilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,No
+Female,53,South East,Lower Secondary School,Single,Unemployed,"£0 - £9,999",Working class,Never,No
+Female,44,South West,Post-graduate,Living with partner,Intermediate managerial / Professional / Administrative,"£100,000 - £149,999",Working class,Never,No
+Female,43,East of England,Vocational/Technical college,In a relationship,Semi-skilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Female,54,Yorkshire and The Humber,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Female,54,South West,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,Yes
+Female,42,West Midlands,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£100,000 - £149,999",Middle class,Never,Yes
+Male,39,South East,Upper Secondary School,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,Yes
+Female,38,Yorkshire and The Humber,Post-graduate,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,I don't have a credit card
+Female,36,North East,University,Married,Skilled manual worker,"£70,000 - £99,999",Middle class,Never,Yes
+Male,52,East Midlands,Vocational/Technical college,Married,Unskilled manual worker,"£55,000 - £69,999",Working class,Never,Yes
+Female,52,South West,Upper Secondary School,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,Yes
+Female,38,West Midlands,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,I don't have a credit card
+Female,51,South West,University,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,No
+Female,40,North West,University,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,I don't have a credit card
+Female,32,South East,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,I don't have a credit card
+Female,34,North West,University,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Female,54,East of England,University,Separated,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,I don't have a credit card
+Female,44,Northern Ireland,University,Married,Full-time carer,"£10,000 - £16,999",Lower middle class,Never,Yes
+Female,35,North East,Upper Secondary School,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,2-3 times a day,No
+Male,52,East Midlands,University,Married,Skilled manual worker,"£17,000 - £34,999",Middle class,Never,Yes
+Neither,39,Scotland,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Female,54,South West,Upper Secondary School,Married,Homemaker,"£35,000 - £54,999",Middle class,Never,Yes
+Male,39,West Midlands,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Female,44,Wales,Upper Secondary School,Married,Homemaker,"£17,000 - £34,999",Working class,Never,No
+Female,49,South East,Lower Secondary School,Married,Semi-skilled manual worker,"£55,000 - £69,999",Working class,Never,I don't have a credit card
+Female,54,South East,University,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Less than once a month,Yes
+Male,51,North East,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Female,51,North West,Post-graduate,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Female,48,East of England,Vocational/Technical college,Single,Senior managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Never,Yes
+Female,43,South West,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,Yes
+Male,50,North West,Post-graduate,Married,Senior managerial / Professional / Administrative,"More than £150,000",Working class,4+ times a day,I don't have a credit card
+Male,35,North East,University,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,43,North West,Upper Secondary School,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Female,47,South West,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,Yes
+Female,44,South West,University,Separated,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,53,South East,Upper Secondary School,Married,Unemployed,"£17,000 - £34,999",Lower middle class,Never,No
+Female,36,East of England,University,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,Yes
+Male,32,North West,Vocational/Technical college,Living with partner,Semi-skilled manual worker,"£35,000 - £54,999",Working class,Never,Yes
+Female,48,South East,Vocational/Technical college,Divorced,Unemployed,"£0 - £9,999",Working class,Never,I don't have a credit card
+Female,45,Scotland,University,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,No
+Female,53,Wales,Vocational/Technical college,Married,Homemaker,"£17,000 - £34,999",Underclass,4+ times a day,I don't have a credit card
+Male,34,West Midlands,University,In a relationship,Intermediate managerial / Professional / Administrative,"£0 - £9,999",Underclass,Never,No
+Female,45,East Midlands,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Female,53,South East,Vocational/Technical college,In a relationship,Intermediate managerial / Professional / Administrative,"£10,000 - £16,999",Middle class,Never,Yes
+Female,52,North East,Lower Secondary School,Married,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,4+ times a day,I don't have a credit card
+Female,36,Yorkshire and The Humber,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,Yes
+Female,47,West Midlands,University,Living with partner,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,Yes
+Male,52,South West,University,Married,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,No
+Male,50,East of England,Post-graduate,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,Yes
+Female,54,East of England,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,Yes
+Female,43,South West,Lower Secondary School,Living with partner,Unskilled manual worker,"£17,000 - £34,999",Working class,Never,
+Male,40,East of England,Upper Secondary School,Living with partner,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Female,46,Wales,Vocational/Technical college,In a relationship,Retired,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Male,52,North East,Upper Secondary School,Living with partner,Unskilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,Yes
+Female,45,Yorkshire and The Humber,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£100,000 - £149,999",Middle class,Never,No
+Male,54,Yorkshire and The Humber,Post-graduate,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,Yes
+Male,46,West Midlands,Upper Secondary School,Living with partner,Skilled manual worker,"£17,000 - £34,999",Working class,Never,Yes
+Male,49,East of England,Vocational/Technical college,Married,Full-time carer,"£17,000 - £34,999",Middle class,4+ times a day,Yes
+Female,49,North West,Upper Secondary School,Single,Unemployed,"£0 - £9,999",Underclass,Less than once a month,I don't have a credit card
+Male,34,London,University,In a relationship,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Never,I don't have a credit card
+Male,36,East Midlands,Post-graduate,Single,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,Yes
+Female,47,East of England,Lower Secondary School,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Female,50,Northern Ireland,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£0 - £9,999",Working class,4+ times a day,No
+Female,45,South East,University,Single,Skilled manual worker,"£10,000 - £16,999",Working class,Never,Yes
+Male,51,North West,University,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,
+Male,33,South East,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Female,44,South East,Vocational/Technical college,Living with partner,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,No
+Female,54,West Midlands,Upper Secondary School,Married,Skilled manual worker,"£55,000 - £69,999",Middle class,Never,Yes
+Female,42,West Midlands,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,Yes
+Male,44,North East,Post-graduate,Living with partner,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Never,No
+Male,44,South East,University,Single,Unskilled manual worker,"£10,000 - £16,999",Working class,Never,I don't have a credit card
+Female,49,South West,University,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,Never,I don't have a credit card
+Neither,40,London,University,Separated,Retired,"£17,000 - £34,999",Working class,Never,No
+Male,51,East Midlands,Vocational/Technical college,Widowed,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,No
+Male,50,East of England,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,Yes
+Female,47,East Midlands,Upper Secondary School,Married,Homemaker,"£35,000 - £54,999",Working class,Less than once a month,No
+Male,53,South East,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£100,000 - £149,999",Lower middle class,Never,Yes
+Female,50,East of England,University,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,Yes
+Female,41,West Midlands,Post-graduate,Single,Senior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,No
+Male,44,Yorkshire and The Humber,University,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,Yes
+Male,37,Yorkshire and The Humber,University,Living with partner,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,Yes
+Female,53,Northern Ireland,University,Married,Homemaker,"£55,000 - £69,999",Middle class,Never,Yes
+Female,47,London,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Male,47,Wales,University,Married,Skilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,Yes
+Male,52,London,Post-graduate,Married,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,Yes
+Female,52,London,Vocational/Technical college,Single,Unskilled manual worker,"£17,000 - £34,999",Working class,4+ times a day,Yes
+Male,41,Wales,Lower Secondary School,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Once/twice a month,I don't have a credit card
+Male,46,East of England,Vocational/Technical college,Married,Retired,"£100,000 - £149,999",Working class,Never,Yes
+Female,43,South East,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"More than £150,000",Working class,Never,No
+Male,41,East of England,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,Yes
+Female,47,London,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"More than £150,000",Middle class,Never,Yes
+Female,52,West Midlands,Lower Secondary School,Married,Unemployed,"£17,000 - £34,999",Working class,Never,No
+Female,54,British Islands,Upper Secondary School,Married,Skilled manual worker,"£35,000 - £54,999",Working class,Never,Yes
+Female,42,East of England,University,Living with partner,Senior managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,No
+Male,37,East of England,Vocational/Technical college,Married,Senior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,No
+Male,38,South East,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,I don't have a credit card
+Female,31,West Midlands,University,Living with partner,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,I don't have a credit card
+Female,35,South East,University,Living with partner,Skilled manual worker,"£55,000 - £69,999",Lower middle class,Never,I don't have a credit card
+Female,51,East of England,Post-graduate,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,Yes
+Female,53,East Midlands,Upper Secondary School,Living with partner,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Female,48,South West,University,Divorced,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,No
+Female,50,West Midlands,Vocational/Technical college,Separated,Unemployed,"£10,000 - £16,999",Underclass,Never,No
+Male,51,South West,Upper Secondary School,Married,Skilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,No
+Male,18,South East,University,Civil Partnership,Retired,"£17,000 - £34,999",Underclass,Never,No
+Female,38,East Midlands,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Male,47,West Midlands,Vocational/Technical college,Married,Skilled manual worker,Prefer not to say,Working class,Less than once a month,No
+Female,48,South East,University,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Male,53,South East,Vocational/Technical college,Single,Junior managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,I don't have a credit card
+Female,50,Scotland,Upper Secondary School,Single,Unskilled manual worker,"£17,000 - £34,999",Working class,4+ times a day,I don't have a credit card
+Male,41,North East,Upper Secondary School,Single,Junior managerial / Professional / Administrative,"£10,000 - £16,999",Working class,Never,Yes
+Female,41,South West,Lower Secondary School,Single,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Lower middle class,Never,No
+Male,41,Wales,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Female,48,Wales,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,No
+Male,50,Yorkshire and The Humber,Upper Secondary School,Single,Semi-skilled manual worker,"£17,000 - £34,999",Working class,Never,No
+Male,48,East Midlands,University,Married,Intermediate managerial / Professional / Administrative,"£100,000 - £149,999",Middle class,Never,No
+Male,52,South East,University,Living with partner,Junior managerial / Professional / Administrative,Prefer not to say,Lower middle class,4+ times a day,Yes
+Female,47,Scotland,University,Divorced,Intermediate managerial / Professional / Administrative,"£17,000 - £34,999",Middle class,2-3 times a day,Yes
+Female,54,East of England,Upper Secondary School,In a relationship,Full-time carer,"£0 - £9,999",Working class,Never,I don't have a credit card
+Female,44,Yorkshire and The Humber,University,Living with partner,Junior managerial / Professional / Administrative,"£10,000 - £16,999",Working class,Never,Yes
+Female,51,Wales,Vocational/Technical college,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,4+ times a day,Yes
+Male,35,Scotland,Post-graduate,Single,Senior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Male,48,South East,Upper Secondary School,Living with partner,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,Yes
+Female,47,South West,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,Yes
+Female,42,Northern Ireland,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Weekly,Yes
+Female,46,North West,Upper Secondary School,Living with partner,Unemployed,"£10,000 - £16,999",Middle class,4+ times a day,I don't have a credit card
+Female,39,West Midlands,Post-graduate,Married,Senior managerial / Professional / Administrative,"£100,000 - £149,999",Working class,Never,No
+Male,26,South East,Vocational/Technical college,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,Yes
+Female,47,North West,Upper Secondary School,Divorced,Unemployed,"£10,000 - £16,999",Working class,Never,No
+Female,54,North West,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,46,London,Vocational/Technical college,Married,Unskilled manual worker,"£35,000 - £54,999",Working class,Never,Yes
+Female,47,Yorkshire and The Humber,Upper Secondary School,Single,Senior managerial / Professional / Administrative,"£17,000 - £34,999",Working class,Never,No
+Male,45,South East,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,Yes
+Male,54,Scotland,Upper Secondary School,Living with partner,Skilled manual worker,"£35,000 - £54,999",Working class,4+ times a day,I don't have a credit card
+Female,41,East Midlands,University,Living with partner,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,Yes
+Male,38,East of England,University,Married,Skilled manual worker,"£70,000 - £99,999",Middle class,Never,No
+Female,52,Scotland,Post-graduate,Married,Senior managerial / Professional / Administrative,"£100,000 - £149,999",Middle class,Never,Yes
+Male,50,North East,Post-graduate,Married,Senior managerial / Professional / Administrative,"£35,000 - £54,999",Lower middle class,Never,Yes
+Female,54,Yorkshire and The Humber,Post-graduate,Civil Partnership,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Lower middle class,Never,No
+Female,39,West Midlands,Vocational/Technical college,Living with partner,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Male,42,Yorkshire and The Humber,University,Living with partner,Senior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,Yes
+Male,43,East of England,Post-graduate,Living with partner,Intermediate managerial / Professional / Administrative,"More than £150,000",Upper middle class,Never,No
+Female,27,East Midlands,Post-graduate,Married,Retired,"£35,000 - £54,999",Lower middle class,Never,No
+Male,48,South West,Vocational/Technical college,Married,Skilled manual worker,"£0 - £9,999",Upper class,Never,Yes
+Female,51,Scotland,Vocational/Technical college,Married,Skilled manual worker,"£100,000 - £149,999",Working class,4+ times a day,No
+Female,46,Yorkshire and The Humber,Vocational/Technical college,Married,Homemaker,"£0 - £9,999",Middle class,Never,Yes
+Male,41,South West,Post-graduate,Divorced,Senior managerial / Professional / Administrative,"£70,000 - £99,999",Middle class,Never,No
+Neither,52,East Midlands,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,No
+Female,54,London,Vocational/Technical college,I'd rather not say,Intermediate managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,No
+Female,44,Northern Ireland,University,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Middle class,Never,Yes
+Female,42,South East,Vocational/Technical college,Living with partner,Unskilled manual worker,"£35,000 - £54,999",Working class,Never,I don't have a credit card
+Male,51,Yorkshire and The Humber,University,Married,Junior managerial / Professional / Administrative,"£70,000 - £99,999",Lower middle class,Never,Yes
+Female,53,London,University,Married,Intermediate managerial / Professional / Administrative,"£100,000 - £149,999",Lower middle class,Never,Yes
+Female,41,West Midlands,Post-graduate,Married,Intermediate managerial / Professional / Administrative,"£55,000 - £69,999",Working class,Never,No
+Female,54,Northern Ireland,Upper Secondary School,Divorced,Retired,"£10,000 - £16,999",Working class,2-3 times a day,No
+Female,41,West Midlands,Vocational/Technical college,Married,Unskilled manual worker,"£17,000 - £34,999",Working class,Weekly,I don't have a credit card
+Female,51,East of England,University,Single,Skilled manual worker,"£17,000 - £34,999",Working class,Never,No
+Female,42,West Midlands,Upper Secondary School,In a relationship,Skilled manual worker,"£17,000 - £34,999",Working class,Never,I don't have a credit card
+Male,43,South East,University,Married,Intermediate managerial / Professional / Administrative,"£70,000 - £99,999",Working class,Never,Yes
+Female,48,North East,University,Single,Senior managerial / Professional / Administrative,Prefer not to say,Lower middle class,Never,No
+Female,33,East of England,Post-graduate,Single,Student,"£17,000 - £34,999",Middle class,Never,Yes
+Female,44,East Midlands,Lower Secondary School,Living with partner,Full-time carer,"£10,000 - £16,999",Underclass,Never,I don't have a credit card
+Female,34,West Midlands,Vocational/Technical college,Separated,Full-time carer,"£35,000 - £54,999",Lower middle class,Never,No
+Female,51,South West,Vocational/Technical college,Married,Unemployed,"£17,000 - £34,999",Middle class,Never,I don't have a credit card
+Male,54,East of England,University,Single,Retired,"£10,000 - £16,999",Middle class,Never,Yes
+Female,51,Northern Ireland,Upper Secondary School,Divorced,Senior managerial / Professional / Administrative,"£35,000 - £54,999",Middle class,Never,No
+Female,53,North West,Upper Secondary School,Married,Junior managerial / Professional / Administrative,"£35,000 - £54,999",Working class,Never,Yes
+Female,76,South East,University,Divorced,Retired,"£17,000 - £34,999",Middle class,Never,Yes
+Male,69,Northern Ireland,University,In a relationship,Retired,"£10,000 - £16,999",Middle class,Never,Yes
+Female,63,East Midlands,Vocational/Technical college,Divorced,Skilled manual worker,"£17,000 - £34,999",Working class,Never,No
+Male,65,East Midlands,Upper Secondary School,Married,Semi-skilled manual worker,"£10,000 - £16,999",Working class,Never,No
+Male,63,South East,University,Single,Retired,"£17,000 - £34,999",Lower middle class,Never,Yes
